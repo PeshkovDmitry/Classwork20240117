@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6149bc3e-0a5b-416d-b2e0-6be8906df619" name="Changes" comment="Сделан шифр Цезаря">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/ArrayOffseter.java" afterDir="false" />
+    <list default="true" id="6149bc3e-0a5b-416d-b2e0-6be8906df619" name="Changes" comment="Сделано смещение массива">
+      <change afterPath="$PROJECT_DIR$/src/ArrayFlipper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1/CaesarСoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaesarСoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2/ArrayOffseter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayOffseter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705610142642</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Сделано смещение массива">
+      <created>1705611638853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705611638853</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Начальный коммит" />
     <MESSAGE value="Сделан шифр Цезаря" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделан шифр Цезаря" />
+    <MESSAGE value="Сделано смещение массива" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделано смещение массива" />
   </component>
 </project>
